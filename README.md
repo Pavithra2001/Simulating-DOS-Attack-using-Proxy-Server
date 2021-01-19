@@ -1,1 +1,1 @@
-# Simulating-DOS-Attack-using-Proxy-Server
+Created a Proxy Server which uses Linked List Data Structure to design the Cache Memory. Have simulated A Denial-of-Serve Attack on the server by providing junk ip address. This project is implemented using Python and Socket Programming.
